@@ -1,0 +1,17 @@
+[
+    {
+        "nom": "ahmed",
+        "age": 25,
+        "note": 15.0
+    },
+    {
+        "nom": "siwar",
+        "age": 23,
+        "note": 15.0
+    },
+    {
+        "nom": "arij",
+        "age": 23,
+        "note": 17.0
+    }
+]
