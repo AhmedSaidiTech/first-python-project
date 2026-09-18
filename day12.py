@@ -54,6 +54,7 @@ print(np.min(notes)) # afficher le minimum
 print(np.max(notes)) # afficher le maximum 
 
 print(np.std(notes)) # afficher l'écart-type 
+
       
 
 
