@@ -10,7 +10,7 @@ tab = np.array([
 ])
 
 notes=tab[1:,1:].astype(float) # récupérer seulement les notes pour faire les statistiques
-print
+
 
 print("liste des notes des étudiants \n")
 print(tab)
